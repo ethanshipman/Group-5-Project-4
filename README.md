@@ -1,3 +1,38 @@
 # Project-4-Group-5
 
-Dataset: [UCI Machine Learning: Student Performance](https://archive.ics.uci.edu/dataset/320/student+performance)
+Team Members:
+- Victoria Mendez
+- Hannah Miles-Kingrey
+- Ethan Shipman
+- Nathaniel Trief
+
+# Project Overview and Purpose
+## Research Question and Terminology
+
+Our goal is to create an Early Warning System for At-Risk Students. The education dataset[^1] we will be utilizing consists of over 600 individual data instances from two Portuguese Schools including attributes such as student grades, demographics, social, and school related features. The data was collected by using school reports and questionnaires. We’re hoping to identify problem areas within students’ environments and potentially reduce the total drop-out rate.
+
+**What is an "At Risk" student?**
+
+**Key Questions**
+- What impact do certain social tendencies have on the students’ likelihood to succeed? (e.g. Frequency of alcoholic consumption, social lives, extracurricular activities, romantic relationships, etc.)
+- Is there a relationship between a student being at-risk and access to extra educational support, family educational support, or extra paid classes within the course subject?
+- Do students with higher-educated parents perform better in final exams compared to those whose parents have lower levels of education?
+
+## Methodology and Tools
+- SQLite3, Scikit-learn, Python
+- Data Model Implementation
+  1. Downloaded and cleaned two CSVs (math student data, Portuguese language student data)
+  2. SQLite database creation
+  3. Initialize, train, evaluate data model
+ 
+- Data Model Optimization
+
+## Results
+
+# Ethical Considerations
+This dataset is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+
+# Additional Resources
+  
+# Attributions
+[^1]: [Cortez, P. (2008). Student Performance [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5TG7T.](https://archive.ics.uci.edu/dataset/320/student+performance)
