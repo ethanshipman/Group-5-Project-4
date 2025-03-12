@@ -7,20 +7,20 @@
 
 -- Started on 2025-03-10 21:04:00
 
-SET statement_timeout = 0;
-SET lock_timeout = 0;
-SET idle_in_transaction_session_timeout = 0;
-SET client_encoding = 'UTF8';
-SET standard_conforming_strings = on;
-SELECT pg_catalog.set_config('search_path', '', false);
-SET check_function_bodies = false;
-SET xmloption = content;
-SET client_min_messages = warning;
-SET row_security = off;
+-- SET statement_timeout = 0;
+-- SET lock_timeout = 0;
+-- SET idle_in_transaction_session_timeout = 0;
+-- SET client_encoding = 'UTF8';
+-- SET standard_conforming_strings = on;
+-- SELECT pg_catalog.set_config('search_path', '', false);
+-- SET check_function_bodies = false;
+-- SET xmloption = content;
+-- SET client_min_messages = warning;
+-- SET row_security = off;
 
-SET default_tablespace = '';
+-- SET default_tablespace = '';
 
-SET default_table_access_method = heap;
+-- SET default_table_access_method = heap;
 
 --
 -- TOC entry 215 (class 1259 OID 17720)
@@ -64,7 +64,7 @@ CREATE TABLE public.stu_math (
 );
 
 
-ALTER TABLE public.stu_math OWNER TO postgres;
+-- ALTER TABLE public.stu_math OWNER TO postgres;
 
 --
 -- TOC entry 216 (class 1259 OID 17725)
@@ -76,7 +76,7 @@ CREATE TABLE public.stu_por (
 INHERITS (public.stu_math);
 
 
-ALTER TABLE public.stu_por OWNER TO postgres;
+-- ALTER TABLE public.stu_por OWNER TO postgres;
 
 --
 -- TOC entry 4780 (class 0 OID 17720)
