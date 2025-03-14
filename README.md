@@ -17,7 +17,7 @@ Our goal is to create an Early Warning System for At-Risk Students. The educatio
 - What impact do certain social tendencies have on the students’ likelihood to succeed? (e.g. Frequency of alcoholic consumption, social lives, extracurricular activities, romantic relationships, etc.)
 - Is there a relationship between a student being at-risk and access to extra educational support, family educational support, or extra paid classes within the course subject?
 - Do students with higher-educated parents perform better in final exams compared to those whose parents have lower levels of education?
-
+- How does health impact a person's likelihood succeed? Does poor health often result in more absences and poorer grades? Is there a high incidence of absence and failure among students classified in poor health? Is there a correlation between health and quality of family relationships? 
 ## Methodology and Tools
 - SQLite3, Scikit-learn, Python
 - Data Model Implementation
