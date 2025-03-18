@@ -25,6 +25,19 @@ Our goal is to create an Early Warning System for At-Risk Students. The educatio
   2. SQLite database creation
   3. Initialize, train, evaluate data model
   4. Make predictions
+
+Top 10 Most Influential Features (to Predict an At-Risk Student)
+![Top ten features](Visualizations/top10_features.png)
+1. G2 - Second Period Grade
+2. G1 - First Period Grade
+3. Attendance Engagement (based on absences and grades ratio)
+4. Failures count
+5. Sudden Grade Drop (from G1 to G2)
+6. Absences count
+7. Medu (mother's education background)
+8. Age
+9. goout - Going out with friends rating
+10. Freetime after school rating
  
 - Data Model Optimization Strategies
   - engineering a variety of features
