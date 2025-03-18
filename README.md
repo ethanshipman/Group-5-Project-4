@@ -12,8 +12,6 @@ Team Members:
 
 Our goal is to create an Early Warning System for At-Risk Students. The education dataset[^1] we will be utilizing consists of over 600 individual data instances from two Portuguese Schools including attributes such as student grades, demographics, social, and school related features. The data was collected by using school reports and questionnaires. We’re hoping to identify problem areas within students’ environments and potentially reduce the total drop-out rate.
 
-**What is an "At Risk" student?**
-
 **Key Questions**
 - What impact do certain social tendencies have on the students’ likelihood to succeed? (e.g. Frequency of alcoholic consumption, social lives, extracurricular activities, romantic relationships, etc.)
 - Is there a relationship between a student being at-risk and access to extra educational support, family educational support, or extra paid classes within the course subject?
