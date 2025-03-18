@@ -18,17 +18,27 @@ Our goal is to create an Early Warning System for At-Risk Students. The educatio
 - What impact do certain social tendencies have on the students’ likelihood to succeed? (e.g. Frequency of alcoholic consumption, social lives, extracurricular activities, romantic relationships, etc.)
 - Is there a relationship between a student being at-risk and access to extra educational support, family educational support, or extra paid classes within the course subject?
 - Do students with higher-educated parents perform better in final exams compared to those whose parents have lower levels of education?
-- How does health impact a person's likelihood succeed? Does poor health often result in more absences and poorer grades? Is there a high incidence of absence and failure among students classified in poor health? Is there a correlation between health and quality of family relationships? 
+- How does health impact a person's likelihood succeed? Does poor health often result in more absences and poorer grades? Is there a high incidence of absence and failure among students classified in poor health? Is there a correlation between health and quality of family relationships?
+
 ## Methodology and Tools
 - SQLite3, Scikit-learn, Python
 - Data Model Implementation
   1. Downloaded and cleaned two CSVs (math student data, Portuguese language student data)
   2. SQLite database creation
   3. Initialize, train, evaluate data model
+  4. Make predictions
  
-- Data Model Optimization
+- Data Model Optimization Strategies
+  - engineering a variety of features
+  - modifying the multilabel classification
+  - experimenting with a variety of model types (logistic regression, random forest, decision tree)
 
 ## Results
+By creating four risk categories, instead of three, we were able to achieve 99% accuracy with a linear regression model and 100% with a decision tree model.
+
+![Logistic regression classification report](Visualizations/log_reg_accuracy.jpg)
+
+![Decision tree classification report](Visualizations/dec_tree_accuracy.jpg)
 
 # Ethical Considerations
 This dataset is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.
