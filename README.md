@@ -55,8 +55,6 @@ By creating four risk categories, instead of three, and changing the target to '
 
 # Ethical Considerations
 This dataset is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.
-
-# Additional Resources
   
 # Attributions
 [^1]: [Cortez, P. (2008). Student Performance [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5TG7T.](https://archive.ics.uci.edu/dataset/320/student+performance)
