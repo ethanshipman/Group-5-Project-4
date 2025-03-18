@@ -28,6 +28,7 @@ Our goal is to create an Early Warning System for At-Risk Students. The educatio
  
 - Data Model Optimization Strategies
   - engineering a variety of features
+  - modifying the target (sometimes final grade(G3), sometimes 'risk category)
   - modifying the multilabel classification
   - experimenting with a variety of model types (logistic regression, random forest, decision tree)
 
