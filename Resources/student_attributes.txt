@@ -34,7 +34,3 @@
 31 G1 - first period grade (numeric: from 0 to 20)
 31 G2 - second period grade (numeric: from 0 to 20)
 32 G3 - final grade (numeric: from 0 to 20, output target)
-
-Additional note: there are several (382) students that belong to both datasets . 
-These students can be identified by searching for identical attributes
-that characterize each student, as shown in the annexed R file.
