@@ -15,7 +15,7 @@ Our goal is to create an Early Warning System for At-Risk Students. The educatio
 **Key Questions**
 - What impact do certain _social tendencies_ have on the students’ likelihood to succeed? (e.g. Frequency of alcoholic consumption, social lives, extracurricular activities, romantic relationships, etc.)
 - Is there a relationship between a student being at-risk and access to _extra educational support_, family educational support, or extra paid classes within the course subject?
-- Do students with _higher-educated parents_ perform better in final exams compared to those whose parents have lower levels of education?
+-  How does the educational background of parents influence the academic performance of students in final exams, as well as their interest in pursuing higher education? Specifically, do students whose parents have higher levels of education (e.g., secondary education or higher) perform better in their final exams compared to those whose parents have lower levels of education? Additionally, do students from higher-educated families demonstrate a stronger interest in pursuing higher education themselves? 
 - How does _health_ impact a person's likelihood succeed? Does poor health often result in more absences and poorer grades? Is there a high incidence of absence and failure among students classified in poor health? Is there a correlation between health and quality of family relationships?
 
 ## Methodology and Tools
